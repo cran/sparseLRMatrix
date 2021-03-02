@@ -1,0 +1,12 @@
+9518a19fe24ffa23fc67475a67b4a630 *DESCRIPTION
+878421fb4a554a6baffb0a5bae95d99e *LICENSE
+2b205d0645f533625ebb58e8fe428661 *NAMESPACE
+1ead9189995a17fdfb4361e465bb4170 *R/object.R
+0fdbd42041cee17df024c3baaf6e9d4e *README.md
+27bf215100df49be331c85e764eb19e1 *man/dim-sparseLRMatrix-method.Rd
+05c7a86b4e7e82697bf2f4cfa84065bf *man/reexports.Rd
+3dab104272f506532fe40df164b1122d *man/sparseLRMatrix-class.Rd
+01bed32d25a9abf71c448e2538f91e46 *man/sparseLRMatrix.Rd
+d2e802c76bea71e97296ad325a1dcd82 *man/svds.sparseLRMatrix.Rd
+ade015a59be350096090cb1a78f522b0 *tests/testthat.R
+ca611c09af8cc2e73daa5dcdc8498ded *tests/testthat/test-svds-matches.R
